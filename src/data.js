@@ -12,10 +12,10 @@ const images = {
 }
 
 const companyDetails = {
-  name: 'Zanzibar Luxury Holiday',
-  phone: '+255 773 958595',
-  email: 'zanzibarluxuryholiday@gmail.com',
-  address: 'Kiembe Samaki Airport Road, Zanzibar',
+  name: 'KASA TRAVEL & TOURS',
+  phone: '+255 772 082 424',
+  email: 'Kasatravel8@gmail.com',
+  address: 'Mpendae , Zanzibar',
   mission: 'Our team offers our customers exceptional and socially responsible travel experiences, providing services beyond expectations.',
   vision: 'To be the best tourism company providing excellent, creative, innovative, competitive and socially responsible services in Zanzibar.',
 }
